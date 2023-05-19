@@ -1,0 +1,14 @@
+h1{
+    color: rgba(201, 108, 108, 0.8);
+    border: rgba(104, 172, 163, 0.801) 2px dotted;
+}
+h4{
+    color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(104, 172, 163, 0.801);
+}
+body{
+    background-color: rgba(184, 170, 107, 0.801);
+}
+ul{
+    color: rgba(255, 255, 255, 0.8);
+}
